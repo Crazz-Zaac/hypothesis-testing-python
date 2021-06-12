@@ -1,9 +1,9 @@
 # Hypothesis Testing
 In this part of my practise the following hypothesis were performed.
-[x] Independent T-test to test the difference between two groups
-[x] Welch's T-test for sampples with unequal variances
-[x] Paired difference T-test for assess the significance of an intervention
-[x] Applying one-way and two-way ANOVA for multiple categorical values
+- [x] Independent T-test to test the difference between two groups
+- [x] Welch's T-test for sampples with unequal variances
+- [x] Paired difference T-test for assess the significance of an intervention
+- [x] Applying one-way and two-way ANOVA for multiple categorical values
 
 The test were performed on different datasets for the following purpose:
 1. Bike sharing data set: To test whether weather situation, temperature affected the numbe of bikes rented.
@@ -12,12 +12,13 @@ The test were performed on different datasets for the following purpose:
 
 ## Tasks included
 Following tasks related to hypothesis testing and data visualization were done:
-[x] Hypothesis testing
+- [x] Hypothesis testing
 
-[x] Data visualization
-    [x] Box plot visualization
-    [x] Histogram visualization 
-    [x] Q-Q plot 
+- [x] Data visualization
+    - [x] Box plot visualization
+    ![alt text](https://github.com/Crazz-Zaac/hypothesis-testing-python/blob/master/assets/bar_chart_visualization.png?raw=true)
+    - [x] Histogram visualization 
+    - [x] Q-Q plot 
 
 
 ## Datasets
