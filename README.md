@@ -35,4 +35,7 @@ You can find all the datasets used in this project inside the ``` datasets``` di
 ## Installation
 You can clone the repository and practise for yourself.
 
+## Credits 
+This is a part of Pluralsight's - Interpreting Data Using Statistical Models with Python
+
 <b>Thank you for your support ❤️</b>
