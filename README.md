@@ -16,9 +16,13 @@ Following tasks related to hypothesis testing and data visualization were done:
 
 - [x] Data visualization
     - [x] Box plot visualization
-    ![alt text](https://github.com/Crazz-Zaac/hypothesis-testing-python/blob/master/assets/bar_chart_visualization.png?raw=true)
+    ![alt text](https://github.com/Crazz-Zaac/hypothesis-testing-python/blob/master/assets/box_plot_visualization_2.png?raw=true)
     - [x] Histogram visualization 
+    ![alt text](https://github.com/Crazz-Zaac/hypothesis-testing-python/blob/master/assets/histogram.png?raw=true)
     - [x] Q-Q plot 
+    ![alt text](https://github.com/Crazz-Zaac/hypothesis-testing-python/blob/master/assets/Q-Q_plot_visualization.png?raw=true)
+    - [x] Barchart visualization
+    ![alt text](https://github.com/Crazz-Zaac/hypothesis-testing-python/blob/master/assets/bar_chart_visualization.png?raw=true)
 
 
 ## Datasets
